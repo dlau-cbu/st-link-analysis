@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="st_link_analysis_ie2",
-    version="0.3.4",
+    version="0.3.5",
     author="AlrasheedA, Dylan Lau",
     description="A streamlit custom component for visualizing and interacting with graphs",
     long_description=open("README.md").read(),
@@ -21,6 +21,7 @@ setup(
         "st_link_analysis_ie2": [
             "component/*.py",
             "frontend/build/*",
+            "frontend/build/icons/*"
         ]
     },
     project_urls={
