@@ -1,7 +1,7 @@
 // Color theme
 const COLOR = {
     dark: {
-        highlight: "rgb(210, 0, 0)",
+        highlight: "rgb(210, 60, 60)",
         line: "rgb(48, 49, 57)",
         font: "rgb(250, 250, 250)",
         border: "rgb(48, 49, 57)",

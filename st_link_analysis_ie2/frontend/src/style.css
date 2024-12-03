@@ -117,7 +117,7 @@ body {
 }
 
 .infopanel[data-expanded="true"] {
-    width: 17.5rem;
+    width: 25rem;
 
     & .infopanel__props {
         border: var(--neutral-3) solid;

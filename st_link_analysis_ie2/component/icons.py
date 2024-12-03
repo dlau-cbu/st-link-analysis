@@ -1,4 +1,16 @@
 SUPPORTED_ICONS = [
+    "123",
+    "calendar",
+    "school",
+    "organization",
+    "service",
+    "concept",
+    "contract",
+    "task",
+    "program",
+    "regulation_or_code",
+    
+    
     "flight",
     "translate",
     "person",

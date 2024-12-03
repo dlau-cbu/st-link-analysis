@@ -3,9 +3,9 @@ import warnings
 import streamlit.components.v1 as components
 from typing import Optional, Union, Callable, Literal
 
-from st_link_analysis.component.layouts import LAYOUTS
-from st_link_analysis.component.styles import NodeStyle, EdgeStyle
-from st_link_analysis.component.events import Event
+from st_link_analysis_ie2.component.layouts import LAYOUTS
+from st_link_analysis_ie2.component.styles import NodeStyle, EdgeStyle
+from st_link_analysis_ie2.component.events import Event
 
 
 # TODO: remove in next version
